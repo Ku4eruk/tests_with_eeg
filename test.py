@@ -1,5 +1,5 @@
 from files import *
-from TE_by_phase import PTE
+from pyPTE import PTE
 import random
 
 files = file_reader()
